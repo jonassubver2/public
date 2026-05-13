@@ -1,6 +1,6 @@
 # Privacy Policy — Film Photography Viewfinder
 
-> **Last updated:** May 2026 &nbsp;|&nbsp; **Developer:** Jonas Subvert &nbsp;|&nbsp; **Contact:** [support@jonassubvert.com](mailto:support@jonassubvert.com)
+> **Last updated:** May 2026 &nbsp;|&nbsp; **Developer:** Jonas Subvert &nbsp;|&nbsp; **Contact:** [jonassubvert@gmail.com](mailto:jonassubvert@gmail.com)
 
 ---
 
@@ -55,7 +55,7 @@ Because all data is stored locally on your device, you are in full control of de
 - **App settings / preferences:** Uninstalling and reinstalling the App resets all preferences to defaults.
 
 ### Request deletion by email
-If you have any concerns about data held on your device, you can contact the developer at [support@jonassubvert.com](mailto:support@jonassubvert.com) and we will assist you within **30 days**.
+If you have any concerns about data held on your device, you can contact the developer at [jonassubvert@gmail.com](mailto:jonassubvert@gmail.com) and we will assist you within **30 days**.
 
 ---
 
@@ -81,7 +81,7 @@ If you are located in the European Economic Area (EEA) or another jurisdiction w
 - **Portability** — export your data (log entries and formats are editable/visible in-app)
 - **Object** — since no data is processed for any commercial purpose, there is nothing to object to
 
-Because no personal data is transmitted to the developer, these rights are exercised directly on your device. If you need assistance, contact [support@jonassubvert.com](mailto:support@jonassubvert.com).
+Because no personal data is transmitted to the developer, these rights are exercised directly on your device. If you need assistance, contact [jonassubvert@gmail.com](mailto:jonassubvert@gmail.com).
 
 ---
 
@@ -102,5 +102,4 @@ If the App is updated in a way that changes data practices, this policy will be 
 For any privacy-related questions, data deletion requests, or concerns:
 
 **Jonas Subvert**
-Email: [support@jonassubvert.com](mailto:support@jonassubvert.com)
-Website: [jonassubvert.com](https://jonassubvert.com)
+Email: [jonassubvert@gmail.com](mailto:jonassubvert@gmail.com)
