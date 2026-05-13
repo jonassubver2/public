@@ -2,8 +2,7 @@
 
 ## Contact Information
 - Developer: Jonas Subvert
-- Email: support@jonassubvert.com
-- Website: https://jonassubvert.com
+- Email: jonassubvert@gmail.com
 
 ## Privacy Policy
 This app is privacy-focused. See the full [Privacy Policy](./PRIVACY_POLICY.md) for complete details.
@@ -20,7 +19,7 @@ This app is privacy-focused. See the full [Privacy Policy](./PRIVACY_POLICY.md) 
 **Data deletion:**
 - Delete all data: uninstall the App, or on Android go to *Settings → Apps → Film Photography Viewfinder → Storage → Clear Data*
 - Delete specific entries: use the delete controls within the Log Book or Settings screens
-- Request deletion by email: support@jonassubvert.com (responded to within 30 days)
+- Request deletion by email: jonassubvert@gmail.com (responded to within 7 days)
 
 ## App Information
 - Version: 10.0.5
@@ -35,4 +34,4 @@ This app is privacy-focused. See the full [Privacy Policy](./PRIVACY_POLICY.md) 
 - Bellows extension calculator
 
 ## Support
-For any questions, bug reports, or feature requests, please email support@jonassubvert.com 
+For any questions, bug reports, or feature requests, please email jonassubvert@gmail.com
