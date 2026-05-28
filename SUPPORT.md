@@ -5,33 +5,26 @@
 - Email: jonassubvert@gmail.com
 
 ## Privacy Policy
-This app is privacy-focused. See the full [Privacy Policy](./PRIVACY_POLICY.md) for complete details.
+See the full [Privacy Policy](./PRIVACY_POLICY.md). Host this file at a public URL for App Store Connect.
 
 **Summary:**
-- No data is collected or transmitted to any server
-- All data (log entries, formats, settings) is stored locally on your device only
-- No analytics, tracking, or advertising
-- Camera is used only for real-time viewfinder preview
-- Microphone permission is only for countdown timer audio
-
-**Data retention:** All data is kept on your device for as long as the App is installed.
+- **Viewfinder / log book / tools:** Data stays on your device unless you export it yourself.
+- **Community (optional):** Uses Firebase for accounts, posts, and images when you sign in. See the Privacy Policy for details.
+- No advertising or analytics SDKs.
 
 **Data deletion:**
-- Delete all data: uninstall the App, or on Android go to *Settings → Apps → Film Photography Viewfinder → Storage → Clear Data*
-- Delete specific entries: use the delete controls within the Log Book or Settings screens
-- Request deletion by email: jonassubvert@gmail.com (responded to within 7 days)
+- Local data: uninstall the app or clear app storage.
+- Community account: **My account → Delete account**, or email jonassubvert@gmail.com.
+
+## Community safety
+- **Guidelines:** In the app → Community → About → Guidelines (or sign-up).
+- **Report / Block:** On any post or profile (signed in).
+- **Abuse:**  — we aim to review reports within 24 hours.
 
 ## App Information
-- Version: 10.0.5
+- Version: see App Store / `app.json`
 - Platform: iOS & Android
 - Last Updated: May 2026
 
-## Features
-- Frame line visualization
-- Light meter
-- Reciprocity failure calculator
-- Exposure timer
-- Bellows extension calculator
-
 ## Support
-For any questions, bug reports, or feature requests, please email jonassubvert@gmail.com
+For questions, bug reports, or feature requests: jonassubvert@gmail.com
