@@ -1,5 +1,6 @@
 # Privacy Policy — Film Photography Viewfinder
 
+> **Public URL:** https://jonassubver2.github.io/public/PRIVACY_POLICY.html  
 > **Last updated:** May 2026 &nbsp;|&nbsp; **Developer:** Jonas Subvert &nbsp;|&nbsp; **Contact:** [jonassubvert@gmail.com](mailto:jonassubvert@gmail.com)
 
 ---
@@ -35,6 +36,8 @@ If you create an account or use Community, we process:
 | Comments, favourites | Engagement | Firestore |
 | Block list, reports | Safety (block/report) | Firestore |
 | Mature-content preference | Safety filter | Firestore (`users` doc) |
+
+**Sign in with Apple (iOS):** If you choose it, **Apple** runs the sign-in UI per [Apple’s privacy policy](https://www.apple.com/legal/privacy/). We receive a stable user identifier from Apple and an identity token used with Firebase Auth. On first sign-in, Apple may share your name; email may be your real address or an Apple **Hide My Email** relay — either is stored like other account emails for sign-in and profile.
 
 **Processors:** Google Firebase (see [Google Privacy Policy](https://policies.google.com/privacy)). Sign-in may also use **Google** or **Apple** (their respective policies apply).
 
